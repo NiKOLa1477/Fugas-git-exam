@@ -1,0 +1,4 @@
+Video1 Duration: 0:5:45
+Video2 Duration: 0:9:27
+Video3 Duration: 1:19:37
+Total Duration: 1:34:49
